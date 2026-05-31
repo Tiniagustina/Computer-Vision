@@ -5,7 +5,7 @@ Repository ini berisi *source code* Machine Learning Pipeline untuk mengklasifik
 
 ## Identitas Mahasiswa
 * **Nama:** Tini Agustina
-* **NIM:** [Isi NIM kamu di sini]
+* **NIM:** 4222301047
 * **Kelas:** Robotika B (Semester 6)
 * **Program Studi:** D4 Teknik Robotika
 * **Politeknik Negeri Batam**
@@ -25,4 +25,4 @@ Dikarenakan ukuran file dataset terlalu besar untuk di-unggah ke GitHub (>100MB)
 
 ## Link Video Penjelasan
 Penjelasan lengkap mengenai *source code*, pemrosesan data, parameter HOG & SVM, serta hasil evaluasi dapat dilihat pada video presentasi berikut:
-**[Nanti ganti tulisan ini dengan Link YouTube kamu]**
+https://youtu.be/OeGW-ET5LAM?si=LkyMSHUPR7P7XJhI 
